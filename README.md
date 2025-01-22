@@ -44,3 +44,7 @@ Exécution du script principal main.ipynb
 ```bash
 python main.ipynb
 ```
+
+## Auteurs
+
+Ce projet a été réalisé en binome avec , **MACHTER Massinissa** [https://github.com/machterMassi06] dans le cadre de notre licence 2 **(2023/2024)** en cours de développements d’applications.
