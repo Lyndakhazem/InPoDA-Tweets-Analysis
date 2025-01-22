@@ -1,4 +1,4 @@
-# InPoDA - Collecte, Traitement et Analyse de Données de Réseaux Sociaux
+# InPoDA - Collecte, Traitement et Analyse de Données des Tweets
 
 ## Description
 
@@ -32,14 +32,14 @@ InPoDA est une plateforme fictive pour l’analyse de données de réseaux socia
 ## Prérequis
 
 - Python installé  
-- Bibliothèques nécessaires : `pandas`, `textblob`, `matplotlib`
+- Bibliothèques nécessaires : `pandas`,`gradio`, `textblob`, `matplotlib`
 ```bash
-pip install pandas textblob matplotlib
+pip install pandas gradio textblob matplotlib
 ```
 
 ### Lancer le Projet
 
-Exécution du script principal avec Jupyter Notebook ou fichier Python.
+Exécution du script principal main.ipynb
 
 ```bash
 python main.ipynb
